@@ -1,0 +1,479 @@
+nav .logo{
+    margin-left: 100px;
+    width: 1%;
+}
+nav a{
+    font-size: 20px;
+    font-weight: bolder;
+}
+.nav-link{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.dropdown-toggle{
+    width: 100%;
+    margin-right: 400px;
+}
+nav .play{
+    width: 25%;
+   
+}
+nav .mac{
+    width: 25%;
+}
+.header1 h1{
+    margin-top: 20px;
+    margin-left: 100px;
+    font-size: 100px;
+    font-weight: bolder;
+}
+.header1 p{
+    margin-left: 100px;
+    font-size: 30px;
+    text-align: justify;
+}
+.header1 button{
+    margin-left: 100px;
+    margin-top: 10px;
+    border-radius: 5px;
+    border: hidden;
+    background-color:darkorchid;
+    padding: 15px 40px 15px 40px;
+}
+.header1 button a{
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+}
+.header img{
+    width:75%;
+}
+.blog{
+    margin-left: 80px;
+}
+.blog h1{
+    margin-top: 50px;
+    margin-bottom: 30px;
+    font-size: 50px;
+    font-weight: bolder;
+}
+.blog h2{
+    margin-left: 30px;
+}
+.blog h2 a{
+    color: black;
+    text-decoration: none;
+}
+.blog h2 a:hover{
+    color: blue;
+    text-decoration: none;
+}
+.blog p{
+    margin-left: 30px;
+}
+.blog img{ 
+    width: 95%;
+}
+.blog2{
+    margin-top: 40px;
+}
+.blogtitle h1{
+    margin-top: 50px;
+    font-size: 60px;
+    font-weight: bolder;
+    margin-left: 120px;
+}
+.blogtitle p{
+    margin-left: 120px;
+    font-weight: 500;
+    font-size: 25px;
+}
+.blogtitle img{
+    margin-top: 50px;
+    margin-left: 120px;
+    width: 87%;
+}
+.figma p{ 
+    margin-top: 30px;
+    margin-right: 140px;
+    text-align: justify;
+    margin-left: 120px;
+        font-size: 22px;
+}
+.f{
+    margin-bottom: 40px;
+    margin-top: 100px;
+}
+.f h1{
+    margin-bottom: 40px;
+    margin-left: 90px;
+    font-size: 80px;
+    font-weight: bolder;
+}
+.f1{
+    margin-bottom: 40px;
+    margin-right: 80px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px grey;
+    margin-left: 100px;
+}
+.f1 h2{
+    
+    line-height: 50px;
+    margin-right: 80px;
+}
+.f1 img{
+    margin-top: 10px;
+    width: 30%;
+}
+.f2{
+    margin-bottom: 40px;
+    margin-right: 80px;
+    margin-left: 30px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 10px grey;
+
+}
+.f2 h2{
+    line-height: 50px;
+    margin-right: 110px;
+}
+.f2 img{
+    width: 45%;
+}
+.f3{
+    margin-bottom: 40px;
+    margin-right: 80px;
+    margin-left: 30px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 10px grey;
+
+}
+.f3 h2{
+    line-height: 50px;
+    margin-bottom: 20px;
+}
+.f3 img{
+    margin-top: 10px;
+    width: 50%;
+}
+.f4{
+    margin-bottom: 40px;
+    margin-left: 30px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 10px grey;
+
+}
+.f4 h2{
+    margin-right: 40px;
+    line-height: 50px;
+    margin-bottom: 10px;
+}
+.f4 img{
+    width: 40%;
+}
+.fr2{
+    margin-top: 40px;
+}
+.f5{
+    margin-bottom: 40px;
+    margin-right: 80px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px grey;
+    margin-left: 100px;
+}
+.f5 h2{
+    line-height: 50px;
+    margin-right: 80px;
+}
+.f5 img{
+   
+    width: 40%;
+}
+.f6{
+    margin-bottom: 40px;
+    margin-right: 80px;
+    margin-left: 30px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 10px grey;
+
+}
+.f6 h2{
+    line-height: 50px;
+    margin-right: 110px;
+}
+.f6 img{
+    margin-top: 10px;
+    width: 50%;
+}
+.f7{
+    margin-bottom: 40px;
+    margin-right: 80px;
+    margin-left: 30px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 10px grey;
+
+}
+.f7 h2{
+    margin-right: 60px;
+    line-height: 50px;
+    
+}
+.f7 img{
+    width: 45%;
+}
+.f8{
+    margin-bottom: 40px;
+    margin-left: 30px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 10px grey;
+
+}
+.f8 h2{
+    margin-right: 40px;
+    line-height: 50px;
+    margin-bottom: 10px;
+}
+.f8 img{
+    width: 45%;
+}
+.footer{
+    border-radius: 10px;
+    width: 90%;
+    background-image: linear-gradient(135deg, #FAB2FF 10%, #1904E5 100%);
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.ftr img{
+    margin-bottom: 50px;
+    margin-left: 150px;
+    margin-top: 40px ;
+    width: 30%;
+}
+.text h1{
+    margin-top: 40px ;
+    font-weight: bolder;
+    color: white;
+    font-size: 50px;
+}
+.text input{
+    margin-top: 10px;
+    padding: 10px;
+    border: none;
+    background-color: lightgrey;
+}
+.text button{
+    padding: 10px;
+    cursor: pointer;
+    border: none;
+    color: white;
+    background-color: black;
+}
+.contact{
+    padding-bottom: 50px;
+    background-color: black;
+    width: 100%;
+}
+.last1 img{
+    margin-top: 30px;
+    margin-left: 90px;
+}
+.ancr1{
+    font-size:20px ;
+    color: white;
+    text-decoration: none;
+    margin-left: 120px;
+}
+.ancr1:hover{
+    font-size:20px ;
+    text-decoration: none;
+}
+.ancr2{
+    font-size:20px ;
+    color: white;
+    text-decoration: none;
+    margin-left: 40px;
+}
+.ancr2:hover{
+    font-size:20px ;
+    text-decoration: none;
+}
+.ancr3{
+    font-size:20px ;
+    margin-top: 20px;
+    margin-left: 120px;
+}
+.ancr4{
+    font-size:20px ;
+    text-decoration: none;
+    color: white;
+    margin-right: 30px;
+}
+.ancr4:hover{
+    font-size:20px ;
+    text-decoration: none;
+}
+.copy{
+    font-size:20px ;
+    margin-top: 20px;
+    margin-left: 120px;
+    color: white;
+}
+.get p{
+    margin-top: 40px;
+    font-size: 30px;
+    color: white;
+}
+.limg{
+    margin-bottom: 20px;
+}
+.limg img{
+    width: 70%;
+}
+.limg2{
+    margin-top: 20px;
+}
+.limg2 img{
+    width: 70%;
+}
+
+@media (max-width:800px){
+    nav .logo{
+        width: 8%;
+    }
+    .play{
+        margin-left: 0px;
+        margin-top: 30px;
+    }
+    .mac{
+        margin-top: 20px;
+        margin-right: 275px;
+    }
+    .header1 h1{
+        margin-left: 40px;
+        font-size: 50px;
+    }
+    .header1 p{
+        margin-right: 15px;
+        margin-left: 40px;
+        font-size: 22px;
+    }
+    .header1 button{
+        margin-left: 40px;
+    }
+    .header img{
+        margin-top: 50px;
+        margin-left: 50px;
+    }
+    .blog h1{
+        margin-left: 60px;
+    }
+    .blog p{
+       margin-bottom: 50px;
+    }
+    .f h1{
+        line-height: 60px;
+        margin-left: 15px;
+        text-align: justify;
+        font-size: 40px;
+    }
+    .f1{
+        margin-left: 50px;
+    }
+    .f1 h2{
+        margin-right: 0%;
+    }
+    .f2{
+        margin-left: 50px;
+    }
+    .f3{
+        margin-left: 50px;
+    }
+    .f4{
+        margin-bottom: 0px;
+        margin-right: 75px;
+        margin-left: 50px;
+    }
+    .f5{  
+        margin-left: 50px;
+    }
+    .f5 h2{
+        margin-right: 0%;
+    }
+    .f5 img{
+        margin-bottom: 40px;
+    }
+    .f6{
+        margin-left: 50px;
+    }
+    .f6 img{
+        margin-bottom: 30px;
+    }
+    .f6 h2{
+        margin-right: 0%;
+    }
+    .f7{
+        margin-left: 50px;
+    }
+    .f8{
+        margin-right: 80px;
+        margin-left: 50px;
+    }
+    .ftr img{
+       margin-left: 30%;
+    }
+    .text h1{
+        margin-bottom: 20px;
+        font-size: 40px;
+    }
+    .text input{
+        font-weight: bolder;
+        padding: 10px 30px;
+        margin-left: 30px;
+        margin-bottom: 10px;
+    }
+    .text button{
+        margin-bottom: 40px;
+        margin-left: 70px;
+    }
+    .img img{
+        margin-left: 10%;
+        width: 20%;
+    }
+    .ancr1{
+        margin-left: 10%;
+    }
+    .ancr3{
+        margin-left: 10%;
+    }
+    .copy{
+        margin-left: 10%;
+    }
+    .get p{
+        margin-left: 10%;
+    }
+    .limg img{
+        margin-left: 10%;
+        width: 50%;
+    }
+    .limg2 img{
+        margin-left: 10%;
+        width: 50%;
+    }
+    .blogtitle h1{
+        margin-left: 30px;
+     }
+     .blogtitle p{
+         font-size: 20px;
+         margin-left: 30px;
+     }
+     .blogtitle img{
+         margin-left: 30px;
+         width: 90%;
+     }
+     .figma p{
+         font-size: 20px;
+         margin-right: 25px;
+         margin-left: 30px;
+     }
+}
